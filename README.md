@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo! 👋 Saya *Septian Hadi Nugroho*
 
-<!--
-**septianhadinugroho/septianhadinugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang *Mahasiswa* di [UIN Sunan Gunung Djati](https://uinsgd.ac.id/), yang saat ini menekuni bidang **Front-End Development**, **Networking**, dan **Cyber Security**.
 
-Here are some ideas to get you started:
+Jika Anda tertarik untuk mengenal saya lebih lanjut, kunjungi tautan berikut:
+- [LinkedIn](https://www.linkedin.com/in/septian-hadi-nugroho/)
+- [Portofolio Web](https://www.septianhadinugroho.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistik GitHub Saya
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&layout=compact&theme=algolia"/>
+</a>
+</p>
