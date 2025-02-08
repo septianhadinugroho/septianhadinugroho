@@ -9,7 +9,6 @@ Saya seorang *Mahasiswa* di [UIN Sunan Gunung Djati](https://uinsgd.ac.id/), yan
 🔗 **Temukan saya di:**
 - [🌐 Portofolio Web](https://www.septianhadinugroho.com/)
 - [💼 LinkedIn](https://www.linkedin.com/in/septian-hadi-nugroho/)
-- [🐙 GitHub](https://github.com/septianhadinugroho/)
 
 ---
 
@@ -29,11 +28,11 @@ Saya seorang *Mahasiswa* di [UIN Sunan Gunung Djati](https://uinsgd.ac.id/), yan
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penuliscode&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=septianhadinugroho&theme=algolia&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
