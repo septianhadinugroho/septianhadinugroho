@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
 </p>
 
-## 📙 About
-Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>, yang saat ini menekuni bidang **Front-End Development**, **Networking**, dan **Cyber Security**. Saya antusias dalam membangun aplikasi berbasis web, mengoptimalkan jaringan, serta memahami keamanan siber.
-
-## 🔗 Temukan Saya
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -16,6 +12,9 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+## 📙 About
+Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>, yang saat ini menekuni bidang **Front-End Development**, **Networking**, dan **Cyber Security**. Saya antusias dalam membangun aplikasi berbasis web, mengoptimalkan jaringan, serta memahami keamanan siber.
 
 ## 🚀 Tech Stack
 <p align="center">
