@@ -1,24 +1,23 @@
-### **Hi there!** 👋 I'm **Septian Hadi Nugroho**  
+<h1 align="center">Hi there! 👋 I'm <br> Septian Hadi Nugroho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
 </p>
 
+## 📙 About
+Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>, yang saat ini menekuni bidang **Front-End Development**, **Networking**, dan **Cyber Security**. Saya antusias dalam membangun aplikasi berbasis web, mengoptimalkan jaringan, serta memahami keamanan siber.
+
+## 🔗 Temukan Saya
 <p align="center">
-Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>, yang saat ini menekuni bidang <b>Front-End Development</b>, <b>Networking</b>, dan <b>Cyber Security</b>.
+  <a href="https://www.instagram.com/septianhnr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/septian-hadi-nugroho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
----
-
-### 🔗 **Temukan saya di:**  
-<p align="center">
-  <a href="https://www.septianhadinugroho.com/"><b>🌐 Portofolio Web</b></a> •  
-  <a href="https://www.linkedin.com/in/septian-hadi-nugroho/"><b>💼 LinkedIn</b></a>
-</p>
-
----
-
-## 🚀 **Tech Stack**  
+## 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,9 +30,7 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 📊 **GitHub Statistics**  
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
@@ -42,8 +39,6 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=septianhadinugroho&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=penuliscode&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
