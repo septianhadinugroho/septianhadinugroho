@@ -30,7 +30,7 @@ Saya seorang *Mahasiswa* di [UIN Sunan Gunung Djati](https://uinsgd.ac.id/), yan
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=septianhadinugroho&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=septianhadinugroho&theme=algolia&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
