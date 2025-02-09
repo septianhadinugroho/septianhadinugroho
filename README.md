@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm <br> Septian Hadi Nugroho</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=penuliscode&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
 </p>
 
@@ -43,4 +39,6 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=septianhadinugroho&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=penuliscode&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
