@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm <br> Septian Hadi Nugroho</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&width=500&lines=⚡+Hi+I'm+Septian+Hadi+Nugroho+⚡" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
