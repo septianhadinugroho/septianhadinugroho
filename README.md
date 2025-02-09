@@ -32,8 +32,7 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&langs_count=8&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
