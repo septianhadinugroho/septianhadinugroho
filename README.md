@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hello World! <br>
-  🎨 <span style="color:#00c7c7;">I'm</span> <b>Septian Hadi Nugroho 💻🔥</b>
+  Hello World! I'm <br><b>Septian Hadi Nugroho 🔥</b>
 </h1>
 
 <p align="center">
