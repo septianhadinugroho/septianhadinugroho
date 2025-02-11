@@ -1,11 +1,6 @@
 <h1 align="center">
   Hello World! <br>
-  <span style="background: linear-gradient(90deg, #00c7c7, #ff007f); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-weight: bold;">
-    I'm Septian Hadi Nugroho 💻
-  </span>
+  🎨 <span style="color:#00c7c7;">I'm</span> <b>Septian Hadi Nugroho 💻🔥</b>
 </h1>
 
 <p align="center">
