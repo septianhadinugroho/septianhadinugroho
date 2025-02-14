@@ -36,7 +36,7 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 </p>
 
 <p align="center">
-  <img src="https://github.com/septianhadinugroho/septianhadinugroho/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/septianhadinugroho/septianhadinugroho/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 <p align="center">
