@@ -7,8 +7,7 @@
 </p>
 
 ## 📙 About Me
-I'm a **beginner** passionate about learning **Front-End Development**, **Networking**, and **Cyber Security**.  
-Currently exploring and improving my skills in these fields.  
+🚀 I'm a beginner passionate about learning Front-End Development, Networking, and Cyber Security. I'm currently building my skills and gaining hands-on experience in these fields.  
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
@@ -20,7 +19,7 @@ Currently exploring and improving my skills in these fields.
 </p>
 
 ## 🚀 Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,mysql,mongodb&perline=20" alt="My Skills"/>
   </a>
