@@ -36,5 +36,9 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 </p>
 
 <p align="center">
+  <img src="https://github.com/septianhadinugroho/septianhadinugroho/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=penuliscode&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
