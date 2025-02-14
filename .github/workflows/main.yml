@@ -16,12 +16,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          output: github-contribution-grid-snake.svg
 
       - name: Push the generated files
         uses: actions/upload-artifact@v3
         with:
           name: snake-game
-          path: dist
+          path: github-contribution-grid-snake.svg
