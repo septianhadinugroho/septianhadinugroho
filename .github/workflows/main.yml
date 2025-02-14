@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *" # Menjalankan setiap hari jam 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
           output: github-contribution-grid-snake.svg
 
       - name: Push the generated files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2  # Ganti ke v2
         with:
           name: snake-game
           path: github-contribution-grid-snake.svg
