@@ -3,11 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Front-End+Developer;Networking+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Learning+Front-End+Development;Exploring+Networking;Diving+into+Cyber+Security" alt="Typing SVG" />
 </p>
 
-## 📙 About
-Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>, yang saat ini menekuni bidang **Front-End Development**, **Networking**, dan **Cyber Security**.
+## 📙 About Me
+I'm a **beginner** passionate about learning **Front-End Development**, **Networking**, and **Cyber Security**.  
+Currently exploring and improving my skills in these fields.  
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
@@ -19,7 +20,7 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
 </p>
 
 ## 🚀 Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,mysql,mongodb&perline=20" alt="My Skills"/>
   </a>
