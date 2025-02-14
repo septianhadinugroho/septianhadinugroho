@@ -7,7 +7,7 @@
 </p>
 
 ## 📙 About Me
-🚀 I'm a beginner passionate about learning Front-End Development, Networking, and Cyber Security. I'm currently building my skills and gaining hands-on experience in these fields.  
+I'm a **beginner** passionate about learning **Front-End Development**, **Networking**, and **Cyber Security**. I'm currently building my skills and gaining hands-on experience in these fields.  
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
