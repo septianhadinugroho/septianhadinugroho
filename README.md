@@ -28,7 +28,7 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&langs_count=6&layout=compact&theme=algolia&hide_border=true&v=1" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septianhadinugroho&langs_count=8&layout=compact&theme=algolia&hide_border=true&v=1" height="195px" />
 </p>
 
 <p align="center">
