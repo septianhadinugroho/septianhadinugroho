@@ -11,16 +11,18 @@ Saya seorang **Mahasiswa** di <a href="https://uinsgd.ac.id/">UIN Sunan Gunung D
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/septian-hadi-nugroho" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ## 🚀 Tech Stack
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,,vite,tailwindcss,mysql,mongodb&perline=10)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,vite,tailwindcss,mysql,mongodb&perline=10" alt="My Skills"/>
+  </a>
 </p>
 
 ## 📊 GitHub Statistics
