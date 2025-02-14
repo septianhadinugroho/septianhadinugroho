@@ -11,10 +11,10 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/septian-hadi-nugroho" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
