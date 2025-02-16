@@ -21,7 +21,7 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 ## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,mysql,mongodb&perline=20" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,mysql,mongodb&perline=20" alt="My Skills"/>
   </a>
 </p>
 
