@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Learning+Front-End+Development;Exploring+Networking;Diving+into+Cyber+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7C7&center=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 📙 About Me
-I'm a **beginner** passionate about learning **Front-End Development**, **Networking**, and **Cyber Security**. I'm currently building my skills and gaining hands-on experience in these fields.  
+I'm a **Full Stack Developer** and **AI Enthusiast** who is passionate about building impactful web applications and exploring the potential of Artificial Intelligence. I enjoy working across the entire stack — from crafting responsive front-end interfaces to designing efficient back-end systems. I’m also diving into the world of machine learning and data processing to expand my knowledge and capabilities in the AI field.  
 
 <p align="center">
   <a href="https://www.instagram.com/septianhnr" target="_blank">
@@ -21,7 +21,7 @@ I'm a **beginner** passionate about learning **Front-End Development**, **Networ
 ## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,mysql,mongodb&perline=20" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,express,mysql,mongodb,python,tensorflow&perline=20" alt="My Skills"/>
   </a>
 </p>
 
