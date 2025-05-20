@@ -18,13 +18,6 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who is passionate about bui
   </a>
 </p>
 
-## 🚀 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,laravel,react,vite,tailwindcss,nodejs,express,mysql,mongodb,python,tensorflow&perline=20" alt="My Skills"/>
-  </a>
-</p>
-
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=septianhadinugroho&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
